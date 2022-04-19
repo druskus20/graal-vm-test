@@ -1,3 +1,5 @@
+*.bc
+
 # Compiled class file
 *.class
 
